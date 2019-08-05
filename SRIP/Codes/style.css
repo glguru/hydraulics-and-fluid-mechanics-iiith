@@ -1,0 +1,16 @@
+#draw{
+    border: 1px;
+    border-color: black;
+    border-style: solid;
+    background-color: black;
+
+}
+canvas
+{
+    align-self: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    
+}
